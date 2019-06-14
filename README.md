@@ -5,7 +5,7 @@ How to use:
 
 install using composer
 ```bash
-composer install supermeteor/sdk-php
+composer require supermeteor/sdk-php
 ```
 
 include package in your file
