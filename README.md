@@ -3,7 +3,12 @@ Supermeteor is PHP SDK use to create message and email.
 
 How to use:
 
-include package
+install using composer
+```bash
+composer install supermeteor/sdk-php
+```
+
+include package in your file
 ```php
 use Supermeteor\Supermeteor;
 ```
