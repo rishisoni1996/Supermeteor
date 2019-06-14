@@ -3,6 +3,11 @@ Supermeteor is PHP SDK use to create message and email.
 
 How to use:
 
+include package
+```php
+use Supermeteor\Supermeteor;
+```
+
 ### 1. For sending sms:
 
 pass type, phone, message as function parameter,
