@@ -7,6 +7,12 @@ install using composer
 ```bash
 composer require supermeteor/sdk-php
 ```
+include vendor/autoload.php in your file
+
+```php
+require_once '../vendor/autoload.php';
+```
+
 
 include package in your file
 ```php
